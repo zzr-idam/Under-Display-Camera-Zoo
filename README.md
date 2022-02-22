@@ -1,6 +1,8 @@
 # Under-Display-Camera-Zoo
 
-Updated by Zhuoran Zheng. &hearts;
+Updated by Zhuoran Zheng. 
+
+&hearts; denotes a very hot project.
 
 ## Description
 
