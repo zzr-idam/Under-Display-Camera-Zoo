@@ -22,9 +22,13 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 + ECCV2020 [dataset](https://github.com/varun19299/deep-atrous-guided-filter)
 
 ### Paper
+
 **2022**
+
 + UDC-UAV [paper](http://arxiv.org/abs/2202.06283)
+
 **2021**
+
 + Image restoration for under-display camera [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Image_Restoration_for_Under-Display_Camera_CVPR_2021_paper.html)
 + Under display camera quad bayer raw image restoration using deep learning [paper](https://www.ingentaconnect.com/content/ist/ei/2021/00002021/00000007/art00003)
 + Fast Image Restoration and Glare Removal for Under-Display Camera by Guided Filter [paper](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.14652)
@@ -35,7 +39,9 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 + Controllable Image Restoration for Under-Display Camera in Smartphones [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Kwon_Controllable_Image_Restoration_for_Under-Display_Camera_in_Smartphones_CVPR_2021_paper.html)
 + Quantitative Image Quality Evaluation Method for UDC (Under Display Camera) [paper](https://ist.rivervalley.io/ei/articles/2021/9/198-1-198-5)
 + ISP-Agnostic Image Reconstruction for Under-Display Cameras [paper](https://arxiv.org/abs/2111.01511)
+
 **2020**
+
 + Transform Domain Pyramidal Dilated Convolution Networks for Restoration of Under Display Camera Images [paper](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_28)
 + Deep Atrous Guided Filter for Image Restoration in Under Display Cameras [paper](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_29)
 + Residual and Dense UNet for Under-Display Camera Restoration [paper](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_30)
