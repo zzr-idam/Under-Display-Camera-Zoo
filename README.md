@@ -55,6 +55,6 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 + _Real-world Computer Vision from Inputs with Limited Quality [project](https://rlq-tod.github.io/index.html)
 
 ## Thanks
-Thanks to **Xiang Chen** [Emial](cv.xchen@gmail.com) and the **IDAM**[github](https://xiuyijia.github.io/) for supporting this project.
+Thanks to **Xiang Chen** [Emial](cv.xchen@gmail.com) and the **IDAM** [github](https://xiuyijia.github.io/) for supporting this project.
 ## Contact
 If you have any question, please feel free to contact Zhuoran Zheng (Email: zhengzr@njust.edu.cn).
