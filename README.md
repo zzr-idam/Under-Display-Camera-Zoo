@@ -59,4 +59,4 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 ## Thanks
 Thanks to **Xiang Chen** [Email](cv.xchen@gmail.com) and the **IDAM** [Website](https://xiuyijia.github.io/) for supporting this project.
 ## Contact
-If you have any question, please feel free to contact Zhuoran Zheng (Email: zhengzr@njust.edu.cn). &hearts;
+If you have any question, please feel free to contact Zhuoran Zheng (Email: zhengzr@njust.edu.cn).
