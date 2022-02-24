@@ -59,9 +59,6 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 ## Thanks
 Thanks to **Xiang Chen** [Email](cv.xchen@gmail.com) and the **IDAM** [Website](https://xiuyijia.github.io/) for supporting this project.
 
-## Taobao customized LED screens
-
-https://detail.tmall.com/item.htm?id=596765406628&ali_refid=a3_430673_1006:1104176466:N:M/Cgvjg/hhRqkc2gPp0zPQ==:620cc33146c645df98546cb82ac5e97c&ali_trackid=1_620cc33146c645df98546cb82ac5e97c&spm=a2e0b.20350158.31919782.5
 
 ## Contact
 If you have any question, please feel free to contact Zhuoran Zheng (Email: zhengzr@njust.edu.cn).
