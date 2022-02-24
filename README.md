@@ -59,6 +59,11 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 ## Thanks
 Thanks to **Xiang Chen** [Email](cv.xchen@gmail.com) and the **IDAM** [Website](https://xiuyijia.github.io/) for supporting this project.
 
+## Mobile Phones
+
++ 中兴天机 Axon 20 5G
++ 小米 MIX 4
++ 摩托罗拉 edgeX30
 
 ## Contact
 If you have any question, please feel free to contact Zhuoran Zheng (Email: zhengzr@njust.edu.cn).
