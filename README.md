@@ -50,9 +50,11 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 + Residual and Dense UNet for Under-Display Camera Restoration [paper](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_30)
 
 ### Github project
++ UDC-Baseline [code](https://github.com/CaravanPassenger/UDC-Baseline)
++ BNUDC [code](https://github.com/JaihyunKoh/BNUDC)
 + Deep-atrous-guided-filter [code](https://github.com/varun19299/deep-atrous-guided-filter)
 + PDCRN architecture for Under-display camera image restoration [code](https://github.com/DensenDavis/UDC_Restoration)
-+ UDC-UAV [code](https://github.com/zzr-idam/Under-Display-Camera-UAV) &hearts;
++ UDC-UAV [code](https://github.com/zzr-idam/Under-Display-Camera-UAV)
 
 ### Challenges
 + _Real-world Computer Vision from Inputs with Limited Quality [project](https://rlq-tod.github.io/index.html) 
