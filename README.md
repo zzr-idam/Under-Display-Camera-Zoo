@@ -26,6 +26,7 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 ### Paper
 
 **2022**
++ Synthetic Dataset for Improving UDC Video Restoration Network Performance [paper](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.15415)
 + Cascaded Curve Estimation [paper](https://ieeexplore.ieee.org/abstract/document/9798712)
 + BNUDC   [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Koh_BNUDC_A_Two-Branched_Deep_Neural_Network_for_Restoring_Images_From_CVPR_2022_paper.pdf)
 + UDC-UAV [paper](http://arxiv.org/abs/2202.06283) &hearts; <font color=FF0000> The dataset and checkpoint have been updated! </font>
