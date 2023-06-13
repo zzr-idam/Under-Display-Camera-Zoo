@@ -36,6 +36,7 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 + Cascaded Curve Estimation [paper](https://ieeexplore.ieee.org/abstract/document/9798712)
 + BNUDC   [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Koh_BNUDC_A_Two-Branched_Deep_Neural_Network_for_Restoring_Images_From_CVPR_2022_paper.pdf)
 + UDC-UAV [paper](http://arxiv.org/abs/2202.06283) &hearts; <font color=FF0000> The dataset and checkpoint have been updated! </font>
++ Modular Degradation Simulation and Restoration for Under-Display Camera [paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhou_Modular_Degradation_Simulation_and_Restoration_for_Under-Display_Camera_ACCV_2022_paper.pdf)
 
 **2021**
 
