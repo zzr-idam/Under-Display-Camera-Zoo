@@ -25,6 +25,11 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 
 ### Paper
 
+**2023**
++ Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Generating_Aligned_Pseudo-Supervision_From_Non-Aligned_Data_for_Image_Restoration_in_CVPR_2023_paper.pdf)
++ Lightweight Neural Network for Enhancing Imaging Performance of Under-Display Camera [paper](https://ieeexplore.ieee.org/abstract/document/10147871)
++ Perceptual Image Enhancement for Smartphone Real-Time Applications [paper](https://openaccess.thecvf.com/content/WACV2023/papers/Conde_Perceptual_Image_Enhancement_for_Smartphone_Real-Time_Applications_WACV_2023_paper.pdf)
+
 **2022**
 + MIPI 2022 Challenge on Under-Display Camera Image Restoration: Methods and Results [paper](https://arxiv.org/pdf/2209.07052.pdf)
 + Synthetic Dataset for Improving UDC Video Restoration Network Performance [paper](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.15415)
