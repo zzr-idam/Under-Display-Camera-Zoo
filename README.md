@@ -19,13 +19,14 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 ## Research
 
 ### Dataset
-
++ Flare7 [paper](https://arxiv.org/pdf/2306.04236.pdf)
 + UDC-UAV [paper](http://arxiv.org/abs/2202.06283) [dataset](https://pan.baidu.com/s/1vMEZ3RmUOhiAKiTI_FyRjA) password: 3v5w &hearts;
 + ECCV2020 [dataset](https://github.com/varun19299/deep-atrous-guided-filter) &hearts;
 
 ### Paper
 
 **2023**
++ Image Restoration via UAVFormer for Under-Display Camera of UAV [paper](https://www.researchgate.net/profile/Zhuoran-Zheng/publication/371810876_Image_Restoration_via_UAVFormer_for_Under-Display_Camera_of_UAV/links/6496860b8de7ed28ba5235af/Image-Restoration-via-UAVFormer-for-Under-Display-Camera-of-UAV.pdf)
 + Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Generating_Aligned_Pseudo-Supervision_From_Non-Aligned_Data_for_Image_Restoration_in_CVPR_2023_paper.pdf)
 + Lightweight Neural Network for Enhancing Imaging Performance of Under-Display Camera [paper](https://ieeexplore.ieee.org/abstract/document/10147871)
 + Perceptual Image Enhancement for Smartphone Real-Time Applications [paper](https://openaccess.thecvf.com/content/WACV2023/papers/Conde_Perceptual_Image_Enhancement_for_Smartphone_Real-Time_Applications_WACV_2023_paper.pdf)
