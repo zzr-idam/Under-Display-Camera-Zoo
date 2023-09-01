@@ -26,6 +26,7 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 ### Paper
 
 **2023**
++ Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer [paper](https://arxiv.org/pdf/2308.10196.pdf)
 + Dual-Domain Network for Restoring Images from Under-Display Cameras (best poster paper) [paper](https://www.researchgate.net/publication/372626225_Dual-Domain_Network_for_Restoring_Images_from_Under-Display_Cameras)
 + Image Restoration via UAVFormer for Under-Display Camera of UAV [paper](https://www.researchgate.net/profile/Zhuoran-Zheng/publication/371810876_Image_Restoration_via_UAVFormer_for_Under-Display_Camera_of_UAV/links/6496860b8de7ed28ba5235af/Image-Restoration-via-UAVFormer-for-Under-Display-Camera-of-UAV.pdf)
 + Generating Aligned Pseudo-Supervision from Non-Aligned Data for Image Restoration in Under-Display Camera [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Generating_Aligned_Pseudo-Supervision_From_Non-Aligned_Data_for_Image_Restoration_in_CVPR_2023_paper.pdf)
