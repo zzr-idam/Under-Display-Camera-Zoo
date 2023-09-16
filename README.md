@@ -26,6 +26,7 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 ### Paper
 
 **2023**
++ Deep Video Restoration for Under-Display Camera [paper](https://arxiv.org/pdf/2309.04752.pdf)
 + Under-Display Camera Image Restoration with Scattering Effect [paper](https://arxiv.org/pdf/2308.04163.pdf)
 + Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer [paper](https://arxiv.org/pdf/2308.10196.pdf)
 + Dual-Domain Network for Restoring Images from Under-Display Cameras (best poster paper) [paper](https://www.researchgate.net/publication/372626225_Dual-Domain_Network_for_Restoring_Images_from_Under-Display_Cameras)
