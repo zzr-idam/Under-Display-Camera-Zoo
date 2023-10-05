@@ -40,6 +40,7 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 + Perceptual Image Enhancement for Smartphone Real-Time Applications [paper](https://openaccess.thecvf.com/content/WACV2023/papers/Conde_Perceptual_Image_Enhancement_for_Smartphone_Real-Time_Applications_WACV_2023_paper.pdf)
 
 **2022**
++ Enhanced Coarse-to-Fine Network for Image Restoration from Under-Display Cameras [paper](https://link.springer.com/chapter/10.1007/978-3-031-25072-9_9)
 + MIPI 2022 Challenge on Under-Display Camera Image Restoration: Methods and Results [paper](https://arxiv.org/pdf/2209.07052.pdf)
 + Synthetic Dataset for Improving UDC Video Restoration Network Performance [paper](https://sid.onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.15415)
 + Cascaded Curve Estimation [paper](https://ieeexplore.ieee.org/abstract/document/9798712)
