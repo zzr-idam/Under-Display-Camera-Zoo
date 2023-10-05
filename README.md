@@ -26,6 +26,7 @@ Under-Display-Camera: A survey on Under-Display-Camera. Papers, codes and datase
 ### Paper
 
 **2023**
++ Designing Phase Masks for Under-Display Cameras [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Designing_Phase_Masks_for_Under-Display_Cameras_ICCV_2023_paper.pdf)
 + FSI: Frequency and Spatial Interactive Learning for Image Restoration in Under-Display Cameras [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_FSI_Frequency_and_Spatial_Interactive_Learning_for_Image_Restoration_in_ICCV_2023_paper.pdf)
 + Deep Video Restoration for Under-Display Camera [paper](https://arxiv.org/pdf/2309.04752.pdf)
 + Under-Display Camera Image Restoration with Scattering Effect [paper](https://arxiv.org/pdf/2308.04163.pdf)
